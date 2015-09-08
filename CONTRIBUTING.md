@@ -8,7 +8,7 @@ read/subscribe to the following resources:
  -  [Coding Standards](https://github.com/zendframework/zf2/wiki/Coding-Standards)
  -  [Contributor's Guide](http://framework.zend.com/participate/contributor-guide)
  -  ZF Contributor's mailing list:
-    Archives: http://zend-framework-community.634137.n4.nabble.com/ZF-Contributor-f680267.html
+    [Archives](http://zend-framework-community.634137.n4.nabble.com/ZF-Contributor-f680267.html),
     Subscribe: zf-contributors-subscribe@lists.zend.com
  -  ZF Contributor's IRC channel:
     #zftalk.dev on Freenode.net
