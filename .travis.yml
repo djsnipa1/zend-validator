@@ -44,6 +44,10 @@ matrix:
     - php: 7
       env:
         - SERVICE_MANAGER_VERSION="^2.7.5"
+    - php: 7.1
+    - php: 7.1
+      env:
+        - SERVICE_MANAGER_VERSION="^2.7.5"
     - php: hhvm 
     - php: hhvm 
       env:
